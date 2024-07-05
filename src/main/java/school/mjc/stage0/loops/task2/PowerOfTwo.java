@@ -7,7 +7,7 @@ public class PowerOfTwo {
         } else {
             int counter = 0;
             while (counter <= power) {
-                System.out.println(power^counter);
+                System.out.println(2^power);
                 counter++;
             }
         }

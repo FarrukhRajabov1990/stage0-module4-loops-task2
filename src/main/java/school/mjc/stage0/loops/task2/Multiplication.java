@@ -13,8 +13,6 @@ public class Multiplication {
                 System.out.println(counter * multiplyByAndToInclusive);
                 counter++;
             }
-        } else {
-            System.out.println();
         }
     }
 }
